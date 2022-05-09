@@ -1,4 +1,4 @@
-19870076198143807
+19876684458619502
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77938,6 +77938,27 @@ LEM Hall Effect Voltage transducer
 5
 5
 Silvestron Components
+64-mini-dpad
+
+
+0
+0
+0
+Silvestron Components
+64-mini-keyboard
+
+
+0
+0
+0
+Silvestron Components
+64-mini-pewpew
+
+
+0
+0
+0
+Silvestron Components
 1072
 1072-2
 Integrated Circuit
@@ -78056,6 +78077,13 @@ MDJ-009
 0
 12
 10
+Silvestron Components
+MountingHole_2.2mm_M2_NoPad
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+0
+0
 Silvestron Components
 NES_Dpad_Conn
 
