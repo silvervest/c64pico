@@ -1,4 +1,4 @@
-19876684458619502
+19886645770184156
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78036,6 +78036,13 @@ Conn_uSDcard
 13
 9
 Silvestron Components
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Silvestron Components
 DIN-6
 
 
@@ -78070,6 +78077,13 @@ connector Hirose FH12 horizontal
 0
 42
 41
+Silvestron Components
+KLP42X-61-WW
+
+
+0
+6
+6
 Silvestron Components
 MDJ-009
 
@@ -78127,6 +78141,27 @@ RP2040
 57
 57
 Silvestron Components
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Silvestron Components
+RPi_Pico_SMD
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+43
+43
+Silvestron Components
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+Silvestron Components
 RS_PRO_Spade_PCB
 
 
@@ -78175,6 +78210,13 @@ MesurementPoint Square SMDPad 5mmx10mm
 0
 2
 1
+Silvestron Components
+TOR-2113
+
+
+0
+5
+4
 Silvestron Components
 Tensility_54-00174_3.5mm_TRRS
 
