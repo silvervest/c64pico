@@ -18,7 +18,7 @@ The software provided for both the keyboard and MCUME modifications are not what
 
 The keyboard code is in this repo underneath the keyboard directory, and can be programmed directly onto the ATmega328PB via ICSP headers using the Arduino software.
 
-The RPi Pico code can be found in [my fork of the MCUME repo](https://github.com/silvervest/MCUME) and you can follow the main instructions for building, installation and use.
+The RPi Pico code can be found in [my fork of the MCUME repo](https://github.com/silvervest/MCUME/tree/c64pico) under branch `c64pico` and you can follow the main instructions for building, installation and use.
 
 ### Face and back plates
 
